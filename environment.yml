@@ -1,4 +1,4 @@
-name: fair
+name: freqfitmed
 channels:
   - conda-forge
   - pytorch
