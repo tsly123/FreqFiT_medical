@@ -1,0 +1,11 @@
+{
+    "train_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/PAPILA/split/train.csv",
+    "val_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/PAPILA/split/val.csv",
+    "test_sex_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/PAPILA/split/new_test.csv",
+    "test_age_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/PAPILA/split/split_more_sa/test_age.csv",
+    "image_train_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/PAPILA/data/FundusImages",
+    "image_val_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/PAPILA/data/FundusImages",
+    "image_test_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/PAPILA/data/FundusImages",
+    "text_template": "a fundus image of a {}",
+    "class_names": ["normal", "glaucoma"]
+}

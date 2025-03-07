@@ -1,0 +1,11 @@
+{
+    "train_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/ADNI/datasets/1.5T/train.csv",
+    "val_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/ADNI/datasets/1.5T/val.csv",
+    "test_sex_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/ADNI/datasets/1.5T/test.csv",
+    "test_age_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/ADNI/datasets/1.5T/test_age.csv",
+    "image_train_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/ADNI/datasets/1.5T/preprocessed",
+    "image_test_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/ADNI/datasets/1.5T/preprocessed",
+    "image_val_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/ADNI/datasets/1.5T/preprocessed",
+    "text_template": "a brain MRI of {}",
+    "class_names": ["normal", "Alzheimer's disease"]
+}

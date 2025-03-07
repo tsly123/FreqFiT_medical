@@ -1,0 +1,4 @@
+{
+    "lora_targets": ["query", "key", "value"],
+    "pretrained_path": "./pretrained/medclip-vit"
+}

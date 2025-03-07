@@ -1,0 +1,11 @@
+{
+    "train_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/COVID-CT-MD/train_1-1.csv",
+    "val_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/COVID-CT-MD/val.csv",
+    "test_sex_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/COVID-CT-MD/test.csv",
+    "test_age_meta_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/COVID-CT-MD/test_age.csv",
+    "image_train_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/COVID-CT-MD/nifti",
+    "image_val_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/COVID-CT-MD/nifti",
+    "image_test_path": "/project/hnguyen2/stly/code/datasets/fairness/processed/COVID-CT-MD/nifti",
+    "text_template": "a computed tomography of a {}",
+    "class_names": ["normal", "pneumonia"]
+}
