@@ -1,5 +1,7 @@
 ## Frequency Strikes Back: Boosting Parameter-Efficient Foundation Model Adaptation for Medical Imaging
 
+Submitted to MICCAI 2025
+
 <p align="center">
 <img src="imgs/freqfit.png">
 <p align="center"> (a) Overview of FreqFiT. (b) Methodology differences between FreqFiT, utilizing Fast Fourier Transform (FFT), and LoRA. Given input tokens $X \in \mathbb{R}^{H \times W \times D}$, while LoRA operates on the channel dimension $D$ in the spatial domain, FreqFiT, using FFT, processes both the $H \times W$ and $D$ in the frequency domain. This highlights how FreqFiT and PEFT methods complement each other.
